@@ -1,0 +1,16 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightseagreen;
+  border: 3px solid;
+  border-color: whitesmoke;
+}
+
+#paragraph-result {
+  margin-top: 50px;
+}
+
+input {
+  margin-top: 5px;
+  width: 100px;
+}
